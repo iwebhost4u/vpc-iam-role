@@ -18,8 +18,8 @@ This repository contains Terraform code to create an AWS Virtual Private Cloud (
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/iwebhost4u/vpc-iam-role.git
+    cd vpc-iam-role
     ```
 
 2. **Initialize the Terraform configuration:**
